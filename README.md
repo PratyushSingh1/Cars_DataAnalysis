@@ -2,6 +2,7 @@
 
 
 
+
 The commands that we used in this project :
 
 * import pandas as pd -- To import Pandas library
@@ -17,7 +18,10 @@ The commands that we used in this project :
 
 
 
+
+
 Requirements and Instructions: 
+
 
 Q. 1) Instruction ( For Data Cleaning ) - Find all Null Values in the dataset. If there is any null value in any column, then fill it.
 
@@ -28,3 +32,7 @@ Q. 3) Instruction ( Filtering ) - Show all the records where Origin is Asia or E
 Q. 4) Instruction ( Removing unwanted records ) - Remove all the records (rows) where Weight is above 4000.
 
 Q. 5) Instruction ( Applying function on a column ) - Increase all the values of 'MPG_City' column by 3.
+
+
+## 🛠 Skills
+Python, Jupyter Notebook, some libraries like pandas, numpy, etc.
